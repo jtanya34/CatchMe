@@ -1,2 +1,2 @@
-# CatchMe
-A game where you hover the moving color block .
+# DSAlgo
+A set of DS/Algo problems soved in js
